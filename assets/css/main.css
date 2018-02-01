@@ -6,6 +6,8 @@
 }
 #body {
 	overflow: hidden;
+	overflow-y: scroll;
+	overflow-x: hidden;
 }
 .navbar {
 	margin: 0;
@@ -70,7 +72,7 @@ a.navbar-brand {
 	color: white;
 }
 #arrow {
-	top: 95%;
+	margin-top: 80vh;
 }
 
 @media only screen and (max-width: 768px) {
