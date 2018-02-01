@@ -45,7 +45,7 @@ a.navbar-brand {
 
 	background-color: black;
 	
-	background: url(file:///C:/Users/Tarush/projects/o/assets/img/main-Page-Background.jpg) no-repeat center center fixed !important; 
+	background: url(../img/main-Page-Background.jpg) no-repeat center center fixed !important; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
