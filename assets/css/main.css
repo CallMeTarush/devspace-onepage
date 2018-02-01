@@ -59,16 +59,18 @@ a.navbar-brand {
 }
 .p-2-line-1 {
 	color: white;
-	margin-top: 25vh;
+	top: 20%;
 }
 .p-2-line-2 {
+	top: 22%;
 	color: white;
 }
 .p-2-line-3 {
+	top: 24%;
 	color: white;
 }
 #arrow {
-	margin-top: 80vh;
+	top: 95%;
 }
 
 @media only screen and (max-width: 768px) {
